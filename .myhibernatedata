@@ -1,0 +1,24 @@
+#MyEclipse Hibernate Properties
+#Tue Sep 28 08:35:34 IST 2021
+sessionFactoryName=com.hes.lis.mltd.dao.HibernateSessionFactory
+genBasicCompId=false
+profile=
+daoSFId=
+version=3.3
+jndiPath=
+detectM2M=false
+reStrategyClass=
+detectO2O=false
+springDaoFile=
+useJavaTypes=true
+keyGenerator=
+libInstallFolder=lib
+addLibs2Project=true
+genVersionTag=false
+sessionFactoryId=
+basePersistenceClass=
+genAnnotations=false
+reSettingsFile=
+configFile=/HES-LIS-MLTD/src/hibernate.cfg.xml
+createConfigFile=true
+addLibs2Classpath=true
